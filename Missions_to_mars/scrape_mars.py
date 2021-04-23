@@ -114,6 +114,7 @@ def scrape():
         'titles': title,
         'para': para,
         'featured_img': featured_img_url,
+        'mars_table' : html_table,
         'hemisphere_imgs': hem_list
     }
     mars_dict
